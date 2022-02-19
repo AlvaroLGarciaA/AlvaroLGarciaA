@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlvaroLGarciaA
 - 👀 I’m interested in Quantitative Social Sciences and Finance
-- 🌱 I’m currently work in Superintendency of Stock Market of Perú
+- 🌱 Currently RA in Research Institute in Economics and Finance
 
 
 <!---
