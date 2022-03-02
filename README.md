@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlvaroLGarciaA
 - 👀 I’m interested in Data Science, Quantitative Social Sciences and Finance
-- 🌱 Currently Semi Senior Data Analyst in [Flum](https://agenciaflum.com/) and RA in [Research Institute in Economics and Finance](https://ri-ef.com/research-assistant/)
+- 🌱 Currently Data Analyst in [Flum](https://agenciaflum.com/) and RA in [Research Institute in Economics and Finance](https://ri-ef.com/research-assistant/)
 
 
 <!---
