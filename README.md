@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlvaroLGarciaA
+- 👋 Hi, I’m Alvaro Garcia A.
 - 🤓 I’m interested in Data Science, Finance and Quantitative Social Sciences
 - 👽 Currently Data Analyst in [Flum](https://agenciaflum.com/) and RA in [Research Institute in Economics and Finance](https://ri-ef.com/research-assistant/)
 - 👨‍💻 You can visit my website build with Hugo language :) ➡️ https://alvarolgarciaa.github.io/ 😁
