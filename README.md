@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/83801351/162625407-1522c9fb-6a67-481f-9ad0-509cd9c8c724.png)
+
 - 👋 Hi, I’m Alvaro Garcia A.
 - 🤓 I’m interested in Data Science, Finance and Quantitative Social Sciences
 - 👽 Currently Data Analyst in [Flum](https://agenciaflum.com/) and RA in [Research Institute in Economics and Finance](https://ri-ef.com/research-assistant/)
