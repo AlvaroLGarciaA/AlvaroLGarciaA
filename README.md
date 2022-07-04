@@ -3,7 +3,7 @@
 - 🌍 Hi, I’m Alvaro Leonardo Garcia Arroyo.
 - 🚀 I’m interested in Data Analytics (Data Science, Data Analysis), Finance and Quantitative Social Sciences
 - 👨‍🚀 +2 years of experience in building and leading Data Analysis products
-- 👽 Currently Data Analyst in [Flum](https://agenciaflum.com/) and RA in [Research Institute in Economics and Finance](https://ri-ef.com/research-assistant/)
+- 👽 Currently Data Consultant for Deep Learning Team in [LLYC](https://www.llorenteycuenca.com/) and RA in [Research Institute in Economics and Finance](https://ri-ef.com/research-assistant/)
 - 🪐 You can visit my website build with CSS and Java Script ➡️ https://alvarolgarciaa.github.io/ 🪐
 
 
