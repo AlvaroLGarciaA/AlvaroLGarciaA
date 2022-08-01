@@ -9,8 +9,7 @@
 - 🪐 You can visit my website build with CSS and Java Script ➡️ https://alvarolgarciaa.github.io/ 🪐
 
 
-### Connect with mee:
-
+### Connect with me:
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/globe-light.svg)](https://alvarolgarciaa.github.io/)
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/globe-dark.svg)](https://alvarolgarciaa.github.io/)
 &nbsp;&nbsp;
