@@ -11,7 +11,6 @@
 
 ### Connect with me:
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/globe-light.svg)](https://alvarolgarciaa.github.io/)
-[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/globe-dark.svg)](https://alvarolgarciaa.github.io/)
 &nbsp;&nbsp;
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/youtube-light.svg)](https://www.youtube.com/channel/UCu8KzvYKMLjLOI_hbO-aNpg#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/youtube-dark.svg)](https://www.youtube.com/channel/UCu8KzvYKMLjLOI_hbO-aNpg#gh-dark-mode-only)
