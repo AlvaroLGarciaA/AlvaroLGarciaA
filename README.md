@@ -1,6 +1,6 @@
 
 ![image](https://user-images.githubusercontent.com/83801351/162625407-1522c9fb-6a67-481f-9ad0-509cd9c8c724.png)
-## I'm a Data Analyst, Growing Data Scientist, Developer, and Teacher!!
+## I'm a Data Analyst, Growing Data Scientist, Researcher, and Teacher!!
 
 - 🌍 Hi, I’m Alvaro Leonardo Garcia Arroyo.
 - 🚀 I’m interested in Data Analytics (Data Science, Data Analysis), Finance and Quantitative Social Sciences
