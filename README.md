@@ -15,8 +15,8 @@
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/youtube-light.svg)](https://www.youtube.com/channel/UCu8KzvYKMLjLOI_hbO-aNpg#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/youtube-dark.svg)](https://www.youtube.com/channel/UCu8KzvYKMLjLOI_hbO-aNpg#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/linkedin-light.svg)](https://linkedin.com/in/%c3%a1lvarogarc%c3%ada#gh-light-mode-only)
-[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/linkedin-dark.svg)](https://linkedin.com/in/%c3%a1lvarogarc%c3%ada#gh-dark-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/linkedin-light.svg)](https://linkedin.com/in/alvarogarciaar-light-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/linkedin-dark.svg)](https://linkedin.com/in/alvarogarciaar-dark-mode-only)
 &nbsp;&nbsp;
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/instagram-light.svg)](https://www.instagram.com/alvar_____ogarcia#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/instagram-dark.svg)](https://www.instagram.com/alvar_____ogarcia#gh-dark-mode-only)
