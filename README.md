@@ -22,7 +22,7 @@
 
 - 🪐 You can visit my website build with CSS and Java Script ➡️ https://alvarolgarciaa.github.io/ 🪐
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/2/folders/1xzJNVxNL713bK4vxba03AK6wmap9Z9rg](https://drive.google.com/drive/u/2/folders/1xzJNVxNL713bK4vxba03AK6wmap9Z9rg)
+- 📄 Know about my experiences [CV|Resume](https://drive.google.com/drive/u/2/folders/1xzJNVxNL713bK4vxba03AK6wmap9Z9rg)
 
 ### 🚀 [Recent Lectures](https://alvarolgarciaa.github.io/lectures)
 
