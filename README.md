@@ -4,12 +4,6 @@
 <h2 align="left">Hi 👋, I'm 🥷Data Scientist, Growing 🤖🧠Machine Learning Engineer, Researcher, and Teacher!!</h2>
 <h3 align="center">Passionate about creating data and machine learning models to accompany important decisions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvarolgarciaa&label=Profile%20views&color=0e75b6&style=flat" alt="alvarolgarciaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvarolgarciaa" alt="alvarolgarciaa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/alvarogarcia_ai" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/alvarogarcia_ai?logo=twitter&style=for-the-badge" alt="https://twitter.com/alvarogarcia_ai" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/alvarogarcia_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/alvarogarcia_ai" height="30" width="40" /></a>
@@ -18,10 +12,15 @@
 <a href="https://medium.com/@alvarolgarciaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alvarolgarciaar" height="30" width="40" /></a>
 </p>
 - 👽 I’m Currently Data Consultant for Deep Learning Team in [LLYC](https://www.llorenteycuenca.com/) and RA in [Research Institute in Economics and Finance](https://ri-ef.com/research-assistant/)
-- 🌍 I’m looking to collaborate on **Deep Learming and Machine Learning research**
+
+- 🌍 I’m looking to collaborate on **Deep Learming and Machine Learning research
+
 - 🚀 I’m interested in Data Analytics (Data Science, Data Analysis), Finance and Quantitative Social Sciences
+
 - 👨‍🚀 +2 years of experience in building and leading Data Analytics products
+
 - 🪐 You can visit my website build with CSS and Java Script ➡️ https://alvarolgarciaa.github.io/ 🪐
+
 - 📄 Know about my experiences [https://drive.google.com/drive/u/2/folders/1xzJNVxNL713bK4vxba03AK6wmap9Z9rg](https://drive.google.com/drive/u/2/folders/1xzJNVxNL713bK4vxba03AK6wmap9Z9rg)
 
 ### 🚀 [Recent Lectures](https://alvarolgarciaa.github.io/lectures)
