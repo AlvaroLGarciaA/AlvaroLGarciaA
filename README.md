@@ -14,7 +14,7 @@
 
 - 👽 I’m Currently Data Consultant for Deep Learning Team in [LLYC](https://www.llorenteycuenca.com/) and RA in [Research Institute in Economics and Finance](https://ri-ef.com/research-assistant/)
 
-- 🌍 I’m looking to collaborate on **Deep Learming and Machine Learning research
+- 🌍 I’m looking to collaborate on Deep Learming and Machine Learning research
 
 - 🚀 I’m interested in Data Analytics (Data Science, Data Analysis), Finance and Quantitative Social Sciences
 
