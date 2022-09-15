@@ -11,6 +11,7 @@
 <a href="https://instagram.com/https://www.instagram.com/alvar_____ogarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alvar_____ogarcia" height="30" width="40" /></a>
 <a href="https://medium.com/@alvarolgarciaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alvarolgarciaar" height="30" width="40" /></a>
 </p>
+
 - 👽 I’m Currently Data Consultant for Deep Learning Team in [LLYC](https://www.llorenteycuenca.com/) and RA in [Research Institute in Economics and Finance](https://ri-ef.com/research-assistant/)
 
 - 🌍 I’m looking to collaborate on **Deep Learming and Machine Learning research
