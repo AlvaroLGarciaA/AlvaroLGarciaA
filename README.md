@@ -18,7 +18,7 @@
 
 - 🚀 I’m interested in Data Analytics (Data Science, Data Analysis), Finance and Quantitative Social Sciences
 
-- 👨‍🚀 +2 years of experience in building and leading Data Analytics products
+- 👨‍🚀 +3 years of experience in building and leading Data Analytics products
 
 - 🪐 You can visit my website build with CSS and Java Script ➡️ https://alvarolgarciaa.github.io/ 🪐
 
