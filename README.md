@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/alvarogarcia_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/alvarogarcia_ai" height="30" width="40" /></a>
+<a href="https://twitter.com/alvarogarcia_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/alvarogarcia_ai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/alvarogarciaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/alvarogarciaar" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/alvar_____ogarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alvar_____ogarcia" height="30" width="40" /></a>
 <a href="https://medium.com/@alvarolgarciaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alvarolgarciaar" height="30" width="40" /></a>
