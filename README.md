@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/83801351/162625407-1522c9fb-6a67-481f-9ad0-509cd9c8c724.png)
 
-<h2 align="left">Hi 👋, I'm 🥷Data Scientist, Growing 🤖🧠Machine Learning Engineer, Researcher, and Teacher!!</h2>
+<h2 align="left">Hi 👋, I'm 🤖🧠Machine Learning Engineer 🥷Data Scientist, Researcher, and Teacher!!</h2>
 <h3 align="center">Passionate about creating data and machine learning models to accompany important decisions</h3>
 
 <h3 align="left">Connect with me:</h3>
