@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/83801351/162625407-1522c9fb-6a67-481f-9ad0-509cd9c8c724.png)
+![image](https://github.com/AlvaroLGarciaA/Images/blob/main/logo%20verde.png?raw=true)
 
 <h2 align="left">Hi 👋, I'm 🤖🧠Machine Learning Engineer 🥷Data Scientist, Researcher, and Teacher!!</h2>
 <h3 align="center">Passionate about creating data and machine learning models to accompany important decisions</h3>
