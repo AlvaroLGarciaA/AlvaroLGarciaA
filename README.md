@@ -16,7 +16,7 @@
 
 - 🌍 I’m looking to collaborate on Deep Learning and Machine Learning research
 
-- 🚀 I’m interested in Data Analytics (Data Science, Data Analysis), Finance and Quantitative Social Sciences
+- 🚀 I’m interested in Artificial Intelligence, Statistics, Finance and Quantitative Social Sciences
 
 - 👨‍🚀 +3 years of experience in building and leading Data Analytics products
 
