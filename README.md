@@ -1,44 +1,43 @@
+![Álvaro García Arroyo — Mide la señal. Ignora el ruido.](banner.png)
 
-![image](https://github.com/AlvaroLGarciaA/Images/blob/main/logo%20verde.png?raw=true)
+**Economista.** Decido qué se mide, con qué método, y cuándo un movimiento significa
+algo en vez de ser ruido.
 
-<h2 align="left">Hi 👋, I'm 🤖🧠Machine Learning Engineer 🥷Data Scientist, Researcher, and Teacher!!</h2>
-<h3 align="center">Passionate about creating data and machine learning models to accompany important decisions</h3>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alvarogarcia_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/alvarogarcia_ai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alvarogarciaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/alvarogarciaar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alvar_____ogarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alvar_____ogarcia" height="30" width="40" /></a>
-<a href="https://medium.com/@alvarolgarciaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alvarolgarciaar" height="30" width="40" /></a>
-</p>
+### Ahora
 
-- 👽 I’m Currently Data Consultant for Deep Learning Team in [LLYC](https://www.llorenteycuenca.com/) and RA in [Research Institute in Economics and Finance](https://ri-ef.com/research-assistant/)
+**Deep Learning Consultant en LLYC**, desde 2022. Dirijo la medición de visibilidad de
+marca en motores de IA generativa para más de 13 marcas en seis mercados de
+Latinoamérica y Norteamérica: defino los criterios que separan un movimiento
+atribuible a la marca de la variación propia del motor.
 
-- 🌍 I’m looking to collaborate on Deep Learning and Machine Learning research
+### De dónde vengo
 
-- 🚀 I’m interested in Artificial Intelligence, Statistics, Finance and Quantitative Social Sciences
+**Econometría aplicada de series de tiempo.** Proyecciones locales, GARCH, VAR, VECM y
+contraste con series subrogadas. Dicté Macroeconometría Aplicada en la UPC entre 2023 y
+2024. Mi tesis, sobre la transmisión de shocks de incertidumbre a los fondos mutuos
+peruanos, fue presentada al Premio Renzo Rossini del BCRP.
 
-- 👨‍🚀 +3 years of experience in building and leading Data Analytics products
+Antes: riesgo de liquidez de fondos mutuos y monitor macroeconómico en la
+**Superintendencia del Mercado de Valores**.
 
-- 🪐 You can visit my website build with CSS and Java Script ➡️ https://alvarolgarciaa.github.io/ 🪐
+### Qué estoy construyendo
 
-- 📄 Know about my experiences [CV|Resume](https://drive.google.com/drive/u/2/folders/1xzJNVxNL713bK4vxba03AK6wmap9Z9rg)
+Una **plataforma abierta de datos del mercado financiero peruano**. Todo el histórico
+que publica la SMV sobre fondos mutuos: 29 administradoras, de 2003 a hoy, en una
+arquitectura por capas con cargas incrementales e idempotentes. El panel pasa de 81 MB
+en CSV a 8,2 MB en Parquet, y una consulta con agregación tarda 27 ms, así que las
+consultas corren en el navegador del visitante y el sitio no necesita servidor.
 
-### 🚀 [Recent Lectures](https://alvarolgarciaa.github.io/lectures)
+---
 
-### 🧑‍🚀 [Lates Blogs](https://alvarolgarciaa.github.io/blogs)
+### El trabajo no está en esta página
 
+Está en **[alvarolgarciaa.github.io](https://alvarolgarciaa.github.io/)**, con los
+proyectos, la bitácora y el manual de marca del propio sitio.
 
+### Hablamos
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarolgarciaa&show_icons=true&locale=en&layout=compact" alt="alvarolgarciaa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarolgarciaa&show_icons=true&locale=en" alt="alvarolgarciaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvarolgarciaa&" alt="alvarolgarciaa" /></p>
-<!---
-AlvaroLGarciaA/AlvaroLGarciaA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/alvarogarciaar) ·
+[alvarolgarciaar@gmail.com](mailto:alvarolgarciaar@gmail.com)
