@@ -22,13 +22,13 @@ peruanos, fue presentada al Premio Renzo Rossini del BCRP.
 Antes: riesgo de liquidez de fondos mutuos y monitor macroeconómico en la
 **Superintendencia del Mercado de Valores**.
 
-### Qué estoy construyendo
+### En qué ando
 
-Una **plataforma abierta de datos del mercado financiero peruano**. Todo el histórico
-que publica la SMV sobre fondos mutuos: 29 administradoras, de 2003 a hoy, en una
-arquitectura por capas con cargas incrementales e idempotentes. El panel pasa de 81 MB
-en CSV a 8,2 MB en Parquet, y una consulta con agregación tarda 27 ms, así que las
-consultas corren en el navegador del visitante y el sitio no necesita servidor.
+Esta lista cambia. Lo de arriba, no.
+
+- **Plataforma abierta del mercado financiero peruano.** Todo el histórico de fondos
+  mutuos que publica la SMV, 29 administradoras desde 2003, consultable desde el
+  navegador y sin servidor detrás.
 
 ---
 
